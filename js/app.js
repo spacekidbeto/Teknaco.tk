@@ -48,7 +48,7 @@
     $('#clint-slider').bxSlider({
         pager: false,
         minSlides: 1,
-        maxSlides: 5,
+        maxSlides: 3,
         moveSlides: 2,
         slideWidth: 210,
         slideMargin: 25,
